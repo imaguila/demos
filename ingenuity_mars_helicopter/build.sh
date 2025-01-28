@@ -4,4 +4,4 @@
 docker build -t ingenuity_flight_simulator .
 
 echo ""
-echo "##### Done! #####"
+echo "##### Done! ####
